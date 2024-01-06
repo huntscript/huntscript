@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Ken. Welcome to @huntscript!
-- 👀 I'm  interested in Python, C++ programming, and AI.
+- 👀 I'm  interested in Python, C++ programming, AI, and Cybersecurity.
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on programming projects.
 - 📫 How to reach me huntscript54@gmail.com
