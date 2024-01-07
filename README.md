@@ -1,4 +1,5 @@
 - 👋 Hi, I'm Ken. Welcome to @huntscript!
+  HuntScript is a project created to provide programming tutorials and help in collaborative work.
 - 👀 I'm  interested in Python, C++ programming, AI, and Cybersecurity.
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on programming projects.
