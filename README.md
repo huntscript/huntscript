@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects related to programming. 
 - 📫 How to reach me huntscript54@gmail.com
   
-  We define a *script hunter* by someone who is always looking for the right
+* We define a *script hunter* by someone who is always looking for the right
   script or the right piece of code to build non-sophisticated and/or sophisticated softwares.
 
   However, even if you're a beginner, you might be considered as a *script hunter* as long as 
