@@ -5,16 +5,16 @@
 - 💞️ I’m looking to collaborate on projects related to programming. 
 - 📫 How to reach me huntscript54@gmail.com
 
-We define a *script hunter* by someone who is always looking for the right
-script or the right piece of code to build non-sophisticated and/or sophisticated softwares.
+  We define a *script hunter* by someone who is always looking for the right
+  script or the right piece of code to build non-sophisticated and/or sophisticated softwares.
 
-However, even if you're a beginner, you might be considered as a *script hunter* as long as 
-you know how to write basic programs other programmers can read easily to find out the process
-behind your script. 
+  However, even if you're a beginner, you might be considered as a *script hunter* as long as 
+  you know how to write basic programs other programmers can read easily to find out the process
+  behind your script. 
+  
+  _That's it ! You hunt for the right script to build your software and you share your own prey._
 
-_That's it ! You hunt for the right script to build your software and you share your own prey._
-
-<!---
-huntscript/huntscript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <!---
+  huntscript/huntscript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  You can click the Preview link to take a look at your changes.
+  --->
