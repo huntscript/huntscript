@@ -2,7 +2,7 @@
   If you are a *script hunter* of you wish to become one, HuntScript is made for you.
 - 👀 I'm  interested in [Python](https://www.python.org/), [C++](https://cplusplus.com/) programming, Artificial Intelligence, and Cybersecurity.
 - 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate on programming projects. 
+- 💞️ I’m looking to collaborate on projects related to programming. 
 - 📫 How to reach me huntscript54@gmail.com
 
 We define a *script hunter* by someone who is always looking for the right
