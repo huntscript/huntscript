@@ -1,8 +1,18 @@
-- 👋 Hi, I'm Ken. Welcome to @huntscript!
-- 👀 I'm  interested in Python, C++ programming, AI, and Cybersecurity.
+- 👋 Hi, I'm Ken. Welcome to [HuntScript](https://github.com/huntscript/)!
+  If you are a *script hunter* of you wish to become one, [HuntScript](https://github.com/huntscript/)! is made for you.
+- 👀 I'm  interested in [Python](https://www.python.org/), [C++](https://cplusplus.com/) programming, Artificial Intelligence, and Cybersecurity.
 - 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate on programming projects.
+- 💞️ I’m looking to collaborate on programming projects. 
 - 📫 How to reach me huntscript54@gmail.com
+
+We define a *script hunter* by someone who is always looking for the right
+script or the right piece of code to build non-sophisticated and/or sophisticated softwares.
+
+However, even if you're a beginner, you might be considered as a *script hunter* as long as 
+you know how to write basic programs other programmers can read easily to find out the process
+behind your script. 
+
+_That's it ! You hunt for the right script to build your software and you share your own prey._
 
 <!---
 huntscript/huntscript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
