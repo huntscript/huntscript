@@ -6,8 +6,13 @@
 - 📫 How to reach me huntscript54@gmail.com
   
 * We define a *script hunter* by someone who is always looking for the right
-  script or the right piece of code to build non-sophisticated and/or sophisticated softwares. However, even if you're a beginner, you might be considered as a *script 
-  hunter* as long as you know how to write basic programs other programmers can read easily to find out the process behind your script.
+  script or the right piece of code to build non-sophisticated and/or sophisticated 
+  softwares during a short period of time. 
+
+  However, even if you're a beginner at programming, you might be considered as a 
+  *script hunter* as long as you know how to write basic programs other programmers 
+  can read easily to find out the process behind your script.
+  
    
  
 
