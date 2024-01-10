@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Ken. Welcome to HuntScript!
-  If you are a *script hunter* of you wish to become one, HuntScript is made for you.
+  If you are a *script hunter* or wish to become one, HuntScript is made for you.
 - 👀 I'm  interested in [Python](https://www.python.org/), [C++](https://cplusplus.com/) programming, Artificial Intelligence, and Cybersecurity.
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on projects related to programming. 
