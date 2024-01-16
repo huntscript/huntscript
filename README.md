@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ken. Welcome to HuntScript!
   If you are a *script hunter* or wish to become one, HuntScript is made for you.
-- - 👀 We focus [Python](https://www.python.org/), [C++](https://cplusplus.com/) programming, Artificial Intelligence, and Cybersecurity.
+- 👀 We focus [Python](https://www.python.org/), [C++](https://cplusplus.com/) programming, Artificial Intelligence, and Cybersecurity.
 - We share video tutorials related to many important concepts you should know as a programmer.
   Visit our YouTube Channel [HuntScript](https://www.youtube.com/channel/UCsrpb6yzAOAjgp5jWqajVOQ).  
 - 🌱 We value skills Software Engineering and Independent Research.
