@@ -1,6 +1,13 @@
 - 👋 Hi, I'm Ken. Welcome to HuntScript!
   If you are a *script hunter* or wish to become one, HuntScript is made for you.
-- 👀 We focus on [Python](https://www.python.org/), [C++](https://cplusplus.com/) programming, Artificial Intelligence, and Cybersecurity.
+- 👀 We focus on
+  - Web / App development
+  - [Python](https://www.python.org/) 
+  - [C++](https://cplusplus.com/) 
+  - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) 
+  - Artificial Intelligence
+  - Cybersecurity.
+  
 - We share video tutorials related to many important concepts you should know as a programmer.
   Visit our YouTube Channel [HuntScript](https://www.youtube.com/channel/UCsrpb6yzAOAjgp5jWqajVOQ).  
 - 🌱 We value skills Software Engineering and Independent Research.
@@ -13,10 +20,6 @@
   However, even if you're a beginner at programming, you might be considered as a 
   *script hunter* as long as you know how to write basic programs other programmers 
   can read easily to find out the process behind your script.
-  
-
-
- 
   
   _That's it ! You hunt for the right script to build your software and you share your own prey._
 
