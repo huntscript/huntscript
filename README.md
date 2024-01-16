@@ -2,7 +2,7 @@
   If you are a *script hunter* or wish to become one, HuntScript is made for you.
 - 👀 We focus on
   - Web / App Development
-  - [Python](https://www.python.org/), [C++](https://cplusplus.com/), and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) 
+  - [Python](https://www.python.org/), [C++](https://cplusplus.com/), and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) programming.
   - Artificial Intelligence
   - Cybersecurity.
   
