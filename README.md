@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Ken. Welcome to HuntScript!
   If you are a *script hunter* or wish to become one, HuntScript is made for you.
 - 👀 We focus on
-  - Web / App development
+  - Web / App Development
   - [Python](https://www.python.org/) 
   - [C++](https://cplusplus.com/) 
   - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) 
