@@ -5,7 +5,7 @@
   - Algorithms
   - Problem Solving
   - Web Development
-  - Mobile App Development (Android and iOS)
+  - Mobile App Development ([Android](https://developer.android.com/get-started/overview) and iOS)
   - [Python](https://www.python.org/), [Java](https://docs.oracle.com/javase/8/docs/), [C++](https://cplusplus.com/), and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) programming.
   - Artificial Intelligence
   - Cybersecurity.
