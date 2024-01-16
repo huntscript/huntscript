@@ -1,8 +1,12 @@
 - 👋 Hi, I'm Ken. Welcome to HuntScript!
   If you are a *script hunter* or wish to become one, HuntScript is made for you.
 - 👀 We focus on
-  - Web / App Development
-  - [Python](https://www.python.org/), [C++](https://cplusplus.com/), and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) programming.
+  - Data Structures
+  - Algorithms
+  - Problem Solving
+  - Web Development
+  - Mobile App Development (Android and iOS)
+  - [Python](https://www.python.org/), [Java](https://docs.oracle.com/javase/8/docs/), [C++](https://cplusplus.com/), and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) programming.
   - Artificial Intelligence
   - Cybersecurity.
   
