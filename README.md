@@ -1,9 +1,10 @@
 - 👋 Hi, I'm Ken. Welcome to HuntScript!
-  If you are a *script hunter* or wish to become one, HuntScript is made for you.
+  If you are a *script hunter* or wish to become one, HuntScript is made for you. We share video tutorials related to many important concepts you should know as a programmer.
+  Visit our YouTube Channel [HuntScript](https://www.youtube.com/channel/UCsrpb6yzAOAjgp5jWqajVOQ).  
 - 👀 I'm  interested in [Python](https://www.python.org/), [C++](https://cplusplus.com/) programming, Artificial Intelligence, and Cybersecurity.
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on projects related to programming. 
-- 📫 Contact huntscript54@gmail.com
+- 📫 Contact huntscript54@gmail.com.
   
 * We define a *script hunter* by someone who is always looking for the right
   script or the right piece of code to build non-sophisticated and/or sophisticated 
