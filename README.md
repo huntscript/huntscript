@@ -8,7 +8,7 @@
   - Artificial Intelligence
   - Cybersecurity.
   
-- We share video tutorials related to many important concepts you should know as a programmer.
+- We share video tutorials related to many important concepts you should know in programming.
   Visit our YouTube Channel [HuntScript](https://www.youtube.com/channel/UCsrpb6yzAOAjgp5jWqajVOQ).  
 - 🌱 We value skills Software Engineering and Independent Research.
 - 📫 Contact huntscript54@gmail.com.
