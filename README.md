@@ -11,8 +11,8 @@
 - Mobile App Development ([Android](https://developer.android.com/get-started/overview) and iOS)
 - [Python](https://www.python.org/), [Java](https://docs.oracle.com/javase/8/docs/), [C++](https://cplusplus.com/), and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) programming.
 - Artificial Intelligence
-- Cybersecurity.
--💡 We share comprehensive video tutorials covering essential programming concepts on our YouTube Channel - [HuntScript](https://www.youtube.com/channel/UCsrpb6yzAOAjgp5jWqajVOQ)
+- Cybersecurity
+- 💡 We share comprehensive video tutorials covering essential programming concepts on our YouTube Channel - [HuntScript](https://www.youtube.com/channel/UCsrpb6yzAOAjgp5jWqajVOQ)
 
 🌱 At HuntScript, we highly value skills in Software Engineering and Independent Research.
 
