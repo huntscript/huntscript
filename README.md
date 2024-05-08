@@ -7,7 +7,7 @@
 - Data Structures
 - Algorithms
 - Problem Solving
-- .NET Development
+- [.NET](https://learn.microsoft.com/en-us/dotnet/) Development
 - [Android](https://developer.android.com/get-started/overview) Development
 - [Python](https://www.python.org/), [Java](https://docs.oracle.com/javase/8/docs/), [C++](https://cplusplus.com/), and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) programming.
 - Automation
