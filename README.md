@@ -17,7 +17,9 @@ Whether you're already a seasoned script hunter or aspire to become one, HuntScr
 - Automation
 - Artificial Intelligence
 
-💡 We share comprehensive video tutorials covering essential programming concepts on our YouTube Channel - [HuntScript](https://www.youtube.com/channel/UCsrpb6yzAOAjgp5jWqajVOQ).
+### 💡 Video Tutorials
+
+We share comprehensive video tutorials covering essential programming concepts on our YouTube Channel - [HuntScript](https://www.youtube.com/channel/UCsrpb6yzAOAjgp5jWqajVOQ).
 
 🌱 At HuntScript, we highly value skills in Software Engineering and Independent Research.
 
