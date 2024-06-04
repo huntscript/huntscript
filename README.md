@@ -25,9 +25,13 @@ We share comprehensive video tutorials covering essential programming concepts o
 
 ---
 
-🌱 At HuntScript, we highly value skills in Software Engineering and Independent Research.
+## 🌱 Our Values 
+
+At HuntScript, we highly value skills in Software Engineering and Independent Research.
 
 📫 Reach out to us at huntscript54@gmail.com.
+
+---
 
 🔍 What's a script hunter? It's someone constantly on the lookout for the perfect script or code snippet to efficiently build both simple and complex software in a short timeframe. Whether you're a seasoned developer or a programming beginner, if you can write code that others can easily understand, you're a script hunter.
 
