@@ -48,7 +48,7 @@ Some are still under development and testing phases.
 
 - **Code Snippet Library**: A curated collection of useful code snippets in Python that you can use in your projects.
 
-  - Python Library 
+  - Python Data Structures 
 
 <!---
 📂 **Relevant Projects**
