@@ -48,7 +48,7 @@ Some are still under development and testing phases.
 
 - **Code Snippet Library**: A curated collection of useful code snippets in Python that you can use in your projects.
 
-  - Python Data Structures 
+  - [Python Data Structures](https://github.com/huntscript/PythonDataStructures) 
 
 <!---
 📂 **Relevant Projects**
