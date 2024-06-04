@@ -46,6 +46,8 @@ It's someone constantly on the lookout for the perfect script or code snippet to
 We have a variety of projects that showcase the practical applications of our focus areas.
 Some are still under development and testing phases. 
 
+- **Code Snippet Library**: A curated collection of useful code snippets in Python that you can use in your projects.
+
 <!---
 📂 **Relevant Projects**
 
@@ -56,6 +58,8 @@ Here at HuntScript, we have a variety of projects that showcase the practical ap
 - **AI Chatbot**: An artificial intelligence project developed with Python and integrated into an Android app.
 - **Code Snippet Library**: A curated collection of useful code snippets in Python, Java, C++, and C# that you can use in your projects.
 - **Mobile App Development**: Several Android apps showcasing different features and capabilities built using best practices in Android development.
+
+
 
 These projects are designed to help you apply what you learn and contribute to the community.
 
