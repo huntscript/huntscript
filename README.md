@@ -41,7 +41,7 @@ It's someone constantly on the lookout for the perfect script or code snippet to
 
 ---
 
-📂 **Relevant Projects**
+## 📂 Relevant Projects
 
 We have a variety of projects that showcase the practical applications of our focus areas.
 Some are still under development and testing phases. 
