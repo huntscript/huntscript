@@ -39,6 +39,8 @@ It's someone constantly on the lookout for the perfect script or code snippet to
 
 🚀 That's it! You hunt for the right script to build your software, and you proudly share your own prey with the community.
 
+---
+
 📂 **Relevant Projects**
 
 We have a variety of projects that showcase the practical applications of our focus areas.
