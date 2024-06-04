@@ -1,4 +1,4 @@
-👋 # Hello, I'm Ken, and I'm excited to welcome you to HuntScript!
+👋 Hello, I'm Ken, and I'm excited to welcome you to HuntScript!
 
 🎯 Whether you're already a seasoned script hunter or aspire to become one, HuntScript is tailor-made for individuals like you.
 
