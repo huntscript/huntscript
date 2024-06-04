@@ -2,13 +2,15 @@
 
 Hello, I'm Ken, and I'm excited to welcome you to HuntScript!
 
+---
+
 ## 🎯 About HuntScript
 
 Whether you're already a seasoned script hunter or aspire to become one, HuntScript is tailor-made for individuals like you.
 
-### 👀 Our Focus Areas
-
 ---
+
+### 👀 Our Focus Areas
 
 - Data Structures
 - Algorithms
@@ -19,11 +21,13 @@ Whether you're already a seasoned script hunter or aspire to become one, HuntScr
 - Automation
 - Artificial Intelligence
 
-### 💡 Video Tutorials
-
 ---
 
+### 💡 Video Tutorials
+
 We share comprehensive video tutorials covering essential programming concepts on our YouTube Channel - [HuntScript](https://www.youtube.com/channel/UCsrpb6yzAOAjgp5jWqajVOQ).
+
+---
 
 🌱 At HuntScript, we highly value skills in Software Engineering and Independent Research.
 
