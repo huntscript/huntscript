@@ -8,8 +8,6 @@ Hello, I'm Ken, and I'm excited to welcome you to HuntScript!
 
 Whether you're already a seasoned script hunter or aspire to become one, HuntScript is tailor-made for individuals like you.
 
----
-
 ### 👀 Our Focus Areas
 
 - Data Structures
@@ -20,8 +18,6 @@ Whether you're already a seasoned script hunter or aspire to become one, HuntScr
 - [Python](https://www.python.org/), [Java](https://docs.oracle.com/javase/8/docs/), [C++](https://cplusplus.com/), and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) programming
 - Automation
 - Artificial Intelligence
-
----
 
 ### 💡 Video Tutorials
 
