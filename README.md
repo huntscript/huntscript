@@ -23,6 +23,11 @@
 
 🚀 That's it! You hunt for the right script to build your software, and you proudly share your own prey with the community.
 
+📂 **Relevant Projects**
+
+We have a variety of projects that showcase the practical applications of our focus areas.
+Some are still under development and testing phases. 
+
 <!---
 📂 **Relevant Projects**
 
