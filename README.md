@@ -16,7 +16,7 @@ Whether you're already a seasoned script hunter or aspire to become one, HuntScr
 - [.NET Development](https://learn.microsoft.com/en-us/dotnet/)
 - [Android Development](https://developer.android.com/get-started/overview)
 - [Python](https://www.python.org/), [Java](https://docs.oracle.com/javase/8/docs/), [C++](https://cplusplus.com/), and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) programming
-- Automation
+- [Automation](https://www.automation.com/)
 - Artificial Intelligence
 
 ### 💡 Video Tutorials
