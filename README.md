@@ -22,8 +22,26 @@
 🔍 What's a script hunter? It's someone constantly on the lookout for the perfect script or code snippet to efficiently build both simple and complex software in a short timeframe. Whether you're a seasoned developer or a programming beginner, if you can write code that others can easily understand, you're a script hunter.
 
 🚀 That's it! You hunt for the right script to build your software, and you proudly share your own prey with the community.
+
+<!---
+📂 **Relevant Projects**
+
+Here at HuntScript, we have a variety of projects that showcase the practical applications of our focus areas:
+
+- **Algorithm Visualizer**: A tool to help you visualize and understand various algorithms in real-time.
+- **Automated Task Scheduler**: A project demonstrating how to automate repetitive tasks using Python and .NET.
+- **AI Chatbot**: An artificial intelligence project developed with Python and integrated into an Android app.
+- **Code Snippet Library**: A curated collection of useful code snippets in Python, Java, C++, and C# that you can use in your projects.
+- **Mobile App Development**: Several Android apps showcasing different features and capabilities built using best practices in Android development.
+
+These projects are designed to help you apply what you learn and contribute to the community.
+
+Happy hunting!
+--->
+
 <!---
 - 💞️ I’m looking to collaborate on projects related to programming. 
 huntscript/huntscript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
