@@ -52,14 +52,11 @@ Some are still under development and testing phases.
 📂 **Relevant Projects**
 
 Here at HuntScript, we have a variety of projects that showcase the practical applications of our focus areas:
-
+- **Code Snippet Library**: A curated collection of useful code snippets in Python, Java, C++, and C# that you can use in your projects.
 - **Algorithm Visualizer**: A tool to help you visualize and understand various algorithms in real-time.
 - **Automated Task Scheduler**: A project demonstrating how to automate repetitive tasks using Python and .NET.
 - **AI Chatbot**: An artificial intelligence project developed with Python and integrated into an Android app.
-- **Code Snippet Library**: A curated collection of useful code snippets in Python, Java, C++, and C# that you can use in your projects.
 - **Mobile App Development**: Several Android apps showcasing different features and capabilities built using best practices in Android development.
-
-
 
 These projects are designed to help you apply what you learn and contribute to the community.
 
