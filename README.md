@@ -1,7 +1,5 @@
 # 👋 Welcome to HuntScript!
 
-Hello, I'm Ken, and I'm excited to welcome you to HuntScript!
-
 ---
 
 ## 🎯 About HuntScript
