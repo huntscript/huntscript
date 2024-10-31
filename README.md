@@ -11,7 +11,7 @@ Whether you're already a seasoned script hunter or aspire to become one, HuntScr
 - Data Structures
 - Algorithms
 - Problem Solving
-- Scientific programming
+- Scientific Programming
 - Automation
 - Artificial Intelligence
 
