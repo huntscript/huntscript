@@ -8,13 +8,11 @@ Whether you're already a seasoned script hunter or aspire to become one, HuntScr
 
 ### 👀 Our Focus Areas
 
-- Data Structures
-- Algorithms
-- Problem Solving
 - Scientific Programming
 - Automation
 - Artificial Intelligence
-
+- Blockchain Technologies
+  
 ### 💡 Video Tutorials
 
 We share comprehensive video tutorials covering essential programming concepts on our YouTube Channel - [HuntScript](https://www.youtube.com/channel/UCsrpb6yzAOAjgp5jWqajVOQ).
