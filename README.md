@@ -11,6 +11,7 @@ Whether you're already a seasoned script hunter or aspire to become one, HuntScr
 - Scientific Programming
 - Automation
 - Artificial Intelligence
+- Machine Learning
 - Blockchain Technologies
   
 ### 💡 Video Tutorials
