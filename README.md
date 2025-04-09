@@ -23,7 +23,6 @@ We share comprehensive video tutorials covering essential programming concepts o
 
 At HuntScript, we highly value skills in Software Engineering and Independent Research.
 
-📫 Reach out to us at huntscript54@gmail.com.
 
 ---
 
