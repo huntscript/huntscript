@@ -12,7 +12,7 @@ Whether you're already a seasoned script hunter or aspire to become one, HuntScr
 
  ### Our Values 
 
-Skills in Software Engineering and Independent Research.
+Science, Technology, Critical Thinking, and Independent Research.
 
 ## What is a Script Hunter?
 
